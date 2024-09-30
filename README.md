@@ -19,7 +19,7 @@ These scripts use Phyton programming language and environment. Previous experien
 **Minimal system requirements for using these scripts.** This does not include hard-drive space required for additional software packages or dependencies.
 
 ------------------
-## Files
+## Folder Structure
 The following folders are included in this repository:
 
 **FCV**: Contains a README.md file and a script to analyse and plot dopamine concentrations from Fast-scan Cyclic Voltammetry (FCV) experiments performed in _ex vivo_ mouse brain slices.
