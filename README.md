@@ -10,6 +10,7 @@
 
 ------------------
 ## Project Overview
+This repository contains scripts used to (1) analyse and plot dopamine concentrations from Fast-scan Cyclic Voltammetry (FCV) experiments performed in _ex vivo_ mouse brain slices; (2) plot dopamine transients from patch-clamp experiments in _ex vivo_ mouse brain slices, and (3) determine the proximity of cell types using mathematical modelling. These scripts were custom-written and used in the study "Rapid modulation of striatal cholinergic interneurons and dopamine release by satellite astrocytes".
 
 ------------------
 ## Installation
@@ -19,15 +20,17 @@ These scripts use Phyton programming language and environment. Previous experien
 
 ------------------
 ## Files
-The following files are included in this repository:
+The following folders are included in this repository:
 
-**neurons_dumbells_jetCut.txt**: A set of G-Code functions to jet-print microfluid-walled dumbbells for culturing of induced pluripotent stem cell-derived neurons with directional connectivity to recapitulate the human corticostriatal connectivity.
+**FCV**: Contains a README.md file and a script to analyse and plot dopamine concentrations from Fast-scan Cyclic Voltammetry (FCV) experiments performed in _ex vivo_ mouse brain slices.
 
-**neurons_dumbell.txt**: A script to reconfigure the microfluid-walled dumbbells to model axotomy of human neuronal microcircuit in vitro.
+**Patch-Clamp**: Contains a README.md file and a script to plot dopamine transients from patch-clamp experiments in _ex vivo_ mouse brain slices. 
+
+**Mathematical Modelling**: Contains a README.md file and two scripts to model 2 and associated histogram described in the methods section of the associated study. 
 
 ------------------
 ## License and Citation
-These scripts are released under the [MIT License](https://opensource.org/license/mit).
+This repository is released under the [MIT License](https://opensource.org/license/mit) - see the [LICENSE.md](LICENSE.md) file for details.
 
 If you use use this code in your research, please cite:
 
