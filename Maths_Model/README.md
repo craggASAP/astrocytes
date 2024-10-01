@@ -1,20 +1,7 @@
 ### Mathematical modelling the proximity of cell types
 ------------------
-## System Requirements
-Any computer using an operating system capable of running Python 3, or alternatively, any computer with a web-browser and an internet connection with reasonable capacity.
-
-**Hardware Requirements**
-The computational power needed to run the python code should be well within the capacities of mid-range laptop computers, with, for example:
-
-    * 8gb of RAM 
-    * processor with 4 cores of 4.00+GHz 
-
-**Software Requirements**
-Python can be installed on machines running Windows, macOS or Linux. The latest version of Python can be downloaded from [python.org](python.org) which provides installers for the operating systems mentioned above.
-
-------------------
 ## Installation
-To install Python on a Windows machine, download the installer from [python.org](python.org). The installer, when run, will offer two installation options, a standard install, Pip Windows, and a customizable install. The standard installation provides everything necessary for our code, and offers by default to also install the IDLE development environment and the PIP package installer. The latter is necessary to install two packages used in the code. The former is a popular environment for producing code, but there are others, such as the Visual Studio Code (available [here](https://code.visualstudio.com/download)). 
+To install Python v3 on a Windows machine, download the installer from [python.org](python.org). The installer, when run, will offer two installation options, a standard install, Pip Windows, and a customizable install. The standard installation provides everything necessary for our code, and offers by default to also install the IDLE development environment and the PIP package installer. The latter is necessary to install two packages used in the code. The former is a popular environment for producing code, but there are others, such as the Visual Studio Code (available [here](https://code.visualstudio.com/download)). 
 
 The Python packages the code requires can be installed from terminal using PIP: 
 
