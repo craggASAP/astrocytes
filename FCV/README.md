@@ -8,7 +8,7 @@ To install Jupyter Notebook on a macOS machine, download the Jupyter metapackage
 
 **Instructions for use**
 
-This Pythin script uses raw .abf files and calibration values as input files. The .abf files can be named "2021_08_03_001.abf". After running the code, five output files will be generated:
+This Python script uses raw .abf files and calibration values as input files. The .abf files can be named "2021_08_03_001.abf". After running the code, five output files will be generated:
 
 * PDF file with 'raw' voltammogram plots;
 * Processed .csv file named "'InverseDate'.'SliceNumber'.Data.csv" (similar to would come out of axoscope);
