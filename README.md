@@ -30,7 +30,7 @@ The following folders are included in this repository:
 
 ------------------
 ## License and Citation
-This repository is released under the [MIT License](https://opensource.org/license/mit) - see the [LICENSE.md](LICENSE.md) file for details.
+This repository is released under the [MIT License](https://opensource.org/license/mit) - see the [LICENSE](LICENSE) file for details.
 
 If you use use this code in your research, please cite:
 
