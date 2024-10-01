@@ -1,33 +1,20 @@
-### Analysis of Dopamine Concentrations obtained from Fast-scan Cyclic Voltammetry experiments in _ex vivo_ mouse brain slices
-------------------
-## System Requirements
-Any computer using an operating system capable of running JupyterLab.
-
-**Hardware Requirements**
-The computational power needed to run the python code should be well within the capacities of mid-range laptop computers, with, for example:
-
-    * 8gb of RAM 
-    * processor with 4 cores of 4.00+GHz 
-
-**Software Requirements**
-Jupyter Notebook can be installed on machines running Windows, macOS or Linux. 
-
+### Fast-scan Cyclic Voltammetry experiments in _ex vivo_ mouse brain slices
 ------------------
 ## Installation
-To install Jupyter Notebook on a macOS machine, download the installer from [python.org](python.org).
+To install Jupyter Notebook on a macOS machine, download the Jupyter metapackage from [Phyton Package Index](https://pypi.org/project/jupyter/).
 
 ------------------
 ## Demonstration
 
 **Instructions for use**
 
-The input folder contains raw .abf files named for example "2021_08_03_001.abf", and calibration value. 
-The ouput files are:
-	 - PDF file with 'raw' voltammogram plots
-	 - Processed .csv file named "'InverseDate'.'SliceNumber'.Data.csv" (similar to would come out of axoscope)
-	 - PDF file with individual transients
-	 - PDF file with aligned transients
-	 - Processed .csv file named "'InverseDate'.'SliceNumber'.DataProcessed.csv
+This Pythin script uses raw .abf files and calibration values as input files. The .abf files can be named "2021_08_03_001.abf". After running the code, five output files will be generated:
+
+* PDF file with 'raw' voltammogram plots;
+* Processed .csv file named "'InverseDate'.'SliceNumber'.Data.csv" (similar to would come out of axoscope);
+* PDF file with individual transients;
+* PDF file with aligned transients;
+* Processed .csv file named "'InverseDate'.'SliceNumber'.DataProcessed.csv
   
 ------------------
 ## Files
