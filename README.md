@@ -32,7 +32,7 @@ The following folders are included in this repository:
 
 **Patch-Clamp**: Plot transients from patch-clamp experiments. 
 
-**Maths_Model**: Model 2 and associated histograms described in the methods section of the associated study. 
+**Maths_Model**: All original phyton code used for mathemical predictions of geometrically expected mean minimum distances between ChIs or SPNs and their nearest astrocyte.
 
 ------------------
 ## License and Citation
