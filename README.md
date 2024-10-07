@@ -9,7 +9,7 @@
 
 ------------------
 ## Project Overview
-This repository contains scripts used to (1) analyse and plot dopamine concentrations from Fast-scan Cyclic Voltammetry (FCV) experiments performed in _ex vivo_ mouse brain slices; (2) plot dopamine transients from patch-clamp experiments in _ex vivo_ mouse brain slices, and (3) determine the proximity of cell types using mathematical modelling. These scripts were custom-written and used in the study ["Rapid modulation of striatal cholinergic interneurons and dopamine release by satellite astrocytes"](https://www.biorxiv.org/content/10.1101/2024.05.15.594341v1).
+This repository contains scripts used to (1) analyse and plot dopamine concentrations from Fast-scan Cyclic Voltammetry (FCV) experiments performed in _ex vivo_ mouse brain slices; (2) plot electrophysiology traces from patch-clamp experiments in _ex vivo_ mouse brain slices, and (3) determine the proximity of cell types using mathematical modelling. These scripts were custom-written by Jeffrey Stedehouder and Professor Kevin McGerty and used in the study ["Rapid modulation of striatal cholinergic interneurons and dopamine release by satellite astrocytes"](https://www.biorxiv.org/content/10.1101/2024.05.15.594341v1).
 
 ------------------
 ## System Requirements
@@ -30,7 +30,7 @@ The following folders are included in this repository:
 
 **FCV**: Analysis of Fast-scan Cyclic Voltammetry (FCV) outputs.
 
-**Patch-Clamp**: Plot transients from patch-clamp experiments. 
+**Patch-Clamp**: Plot electrophysiology traces from patch-clamp experiments. 
 
 **Maths_Model**: All original phyton code used for mathemical predictions of geometrically expected mean minimum distances between ChIs or SPNs and their nearest astrocyte.
 
